@@ -25,6 +25,6 @@ The goal is to provide a professional online presence and serve as a digital res
 
 - **Frontend**: 
   - HTML5
-  - CSS3 (or CSS framework like Bootstrap/Tailwind)
-  - JavaScript (or frameworks like React/Vue)
+  - CSS3
+  - JavaScript
 - **Version Control**: Git & GitHub
